@@ -1,2 +1,2 @@
 # Github-deneme
-github deneme
+github deneme açıklaması
